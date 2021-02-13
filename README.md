@@ -12,8 +12,8 @@ So here are mine (arosen from Blender Guru's Tutorial):
     <td><img src="./Donut_look_any_further/basic_donut.png" alt="2" width = 360px height = 203px></td>
   </tr>
   <tr>
-    <td><img src="./Donut_look_any_further/yummy_donut.png" alt="3" width = 360px height = 203px></td>
     <td><img src="./Donut_look_any_further/you_want_that.png" alt="4" width = 360px height = 203px>
+    <td><img src="./Donut_look_any_further/yummy_donut.png" alt="3" width = 360px height = 203px></td>
   </td>
   </tr>
 </table>
